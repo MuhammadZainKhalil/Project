@@ -1,2 +1,2 @@
-<p><a href="https://github.com/MuhammadZainKhalil/projecte-1r-semana/blob/1/index.md">Primera setmana</a>
+<p><a href="https://muhammadzainkhalil.github.io/projecte-1r-semana/">Primera setmana</a>
 
